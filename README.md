@@ -1,7 +1,7 @@
-# AI-Studio-项目标题
+# 常规赛：MarTech Challenge 用户购买预测-7月第9名方案
 
 ## 项目描述
-简要描述项目
+常规赛：MarTech Challenge 用户购买预测
 
 ## 项目结构
 ```
